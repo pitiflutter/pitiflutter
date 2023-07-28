@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hamed</h1>
-<h3 align="center">I'm a Flutter and Swift developer, currently studying golang foe backend . I'm highly interested in Dart/Flutter, and I'm currently developing software and apps with Flutter. You can check out my repositories.</h3>
+<h3 align="center">I'm a Flutter and Swift developer, currently studying golang foe backend . I'm highly interested in Dart/Flutter, and I'm currently developing software and apps with Flutter. You can check out my repositories ang resume 👨‍💻 .</h3>
 
 - 🔭 I’m currently working on **Flutter and swift apps**
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Golang** and **Swift**
 
 - 👨‍💻 All of my projects are available at [https://pitiflutter.github.io](https://pitiflutter.github.io)
 
@@ -15,11 +15,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <a href="https://t.me/P_i_T_i" target="blank"><img align="center" src=" https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Hamed Mahmoodi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hamed-mahmoodi-51146925b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamed-mahmoodi-51146925b" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22262257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22262257" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Skills:</h3>
 <p align="left"> 
 
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
