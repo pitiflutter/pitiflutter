@@ -1,9 +1,10 @@
 # Hey There! 👋
 
-I'm Amir - I'm a Flutter developer, currently studying Software Engineering. I'm highly interested in Dart/Flutter, and I'm currently developing software and apps with Flutter. You can check out my portfolio on Instagram.
+I'm Hamed - I'm a Flutter and Swift developer, currently studying golang foe backend . I'm highly interested in Dart/Flutter, and I'm currently developing software and apps with Flutter. You can check out my repositories.
 
 ## 💻 Tech Stack:
-- Flutter
+markdown
+   <img src="https://flutter.dev/assets/flutter-lockup-4cb0ee072ab312e59784b583f58fa1b7ce4f7a7c4c0e6e3b8e1a7f9d2c8b2b4f.svg" alt="Flutter" width="50" height="50">
 - Dart
 - Software Engineering
 
