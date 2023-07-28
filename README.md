@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hamed</h1>
+<h1 align="center">Hi,I'm Hamed</h1>
 <h3 align="center">I'm a Flutter and Swift developer, currently studying golang foe backend . I'm highly interested in Dart/Flutter, and I'm currently developing software and apps with Flutter. You can check out my repositories ang resume 👨‍💻 .</h3>
 
 - 🔭 I’m currently working on **Flutter and swift apps**
