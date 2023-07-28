@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://t.me/P_i_T_i" target="blank"><img align="center" src=" https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Hamed Mahmoodi" height="30" width="40" /></a>
+ <a href="https://t.me/P_i_T_i" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Hamed Mahmoodi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hamed-mahmoodi-51146925b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamed-mahmoodi-51146925b" height="30" width="40" /></a>
 </p>
 
